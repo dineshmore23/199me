@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+Life is choice ,death is not  -- from rahul
+=======
 Reshu <3 :)
+>>>>>>> ddaa5e9f95a807e2d318d73a7e2feb8305af0571
 =======
 GoodNoon
 Hello World - Kishan
